@@ -7,4 +7,5 @@ __Orden Carpetas__
         -  __Reporte tablas bloqueadas__ (Como encontrar y liberar las tablas y PTS que tienen tomado el sistema
         -  __Liberar PTS reportado por usuarios__ (Comando utilizado para liberar PTS reportados por usuarios)
     2. __Facturacion__ (Errores comunes en facturación)
-        - __Facturas sin hoja de ruta__  
+        - __Facturas sin hoja de ruta__ (Facturas encoladas que no tienen su hoja de ruta asignada)
+        - __Reenviar factura a paperless__ (Hacer reenvio desde QAD a PPL de facturas) 
