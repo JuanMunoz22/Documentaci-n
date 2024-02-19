@@ -11,5 +11,13 @@
 
     Al ejecutar el reporte se mostrara una interfaz similar a la siguiente:
 
-    
+    ![Animacion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJnMDE3cjNlcmY5Y2V5aG94ZTEzYnVla3R4cWs3eHoxaGwzbm94YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbx2gwi4WHmQGHQc4M/giphy.gif "reporte")
 
+    Seguido de esto debemos tomar la información demarcada en verde __(PID)__ y ejecutar el comando
+
+    ~~~
+        //En PID debe ir el numero entregado por el reporte
+        kill -15 PID 
+    ~~~ 
+    
+    
