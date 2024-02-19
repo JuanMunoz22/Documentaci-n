@@ -13,7 +13,7 @@
 
     ![Animacion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJnMDE3cjNlcmY5Y2V5aG94ZTEzYnVla3R4cWs3eHoxaGwzbm94YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbx2gwi4WHmQGHQc4M/giphy.gif "reporte")
 
-    Seguido de esto debemos tomar la información demarcada en verde __(PID)__ y ejecutar el comando
+    Seguido de esto debemos tomar la información demarcada en verde __(PID)__ y ejecutar el siguiente comando en linux
 
     ~~~
         //En PID debe ir el numero entregado por el reporte
