@@ -11,4 +11,6 @@ __Orden Carpetas__
         - __Reenviar factura a paperless__ (Hacer reenvio desde QAD a PPL de facturas)
 
 2. __Cron__
-        - __Guia subir cron a prod__ 
+
+   1. __Guia subir cron a prod__
+   2. __Crear Cron__
